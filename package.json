@@ -1,0 +1,26 @@
+{
+  "name": "jquery-resize",
+  "version": "1.1.0",
+  "description": "A resize event for ALL your jQueries! ",
+  "main": "jquery.ba-resize.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vince-F/jquery-resize.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "\"Cowboy\" Ben Alman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vince-F/jquery-resize/issues"
+  },
+  "homepage": "https://github.com/Vince-F/jquery-resize#readme"
+}
